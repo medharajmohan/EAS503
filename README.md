@@ -12,7 +12,6 @@ With the use of the above-mentioned dataset, we aim to analyze and perform predi
 Some of the insights based on the analysis made are:
 
 ![image](https://user-images.githubusercontent.com/89947247/200997994-d9dc2335-ec6a-44f6-9137-674a615d6cfe.png)
-Fig: 4.1 Geographical mapping of hotspots of wildfires
 
 • This geographical mapping of the hotspots of wildfires (Fig: 4.1) shows region in and around Alaska as a major hotspot since more than three wildfires occur on the same convergence of longitude and latitude.
 
@@ -24,12 +23,14 @@ Fig: 4.1 Geographical mapping of hotspots of wildfires
 
 • The barplot depicting the highest frequency of wildfires by state (Fig: 4.3) shows Alaska, Oregon, and Idaho as the three most highly impacted states with a fire size of 600000, 550000, and 470000 respectively.
 
-![image](https://user-images.githubusercontent.com/89947247/200998321-0ffb982d-41eb-4b22-b2ff-03d851faaaee.png)
-Fig: 4.4 Frequency of wildfire with different size classes
+![image](https://user-images.githubusercontent.com/89947247/200998676-059e59ac-211a-46da-b12b-81e1ab52297b.png)
 
 • From the barplot showing frequency of wildfires occurred having different fire sizes (Fig: 4.4), classes A, B and C with respective fire sizes are commonly reported and classes E, F and G are the three least reported classes.
    
- ![image](https://user-images.githubusercontent.com/89947247/200998379-8563396d-5e6c-4064-9d38-fd1f1be73702.png) 
- Fig: 4.5 Count of wildfires occurred over the years
+ ![image](https://user-images.githubusercontent.com/89947247/200998605-58a17c38-3e48-4b7b-a033-ef42ee9ea834.png)
  
-• The representation of count of wildfires occurred over the years (Fig: 4.5) shows 1993 as the year with the least number of fires reported and just the next year, 1992, has had the highest fires reported with a count of 13954 fires in the span of 23 years.
+ • The representation of count of wildfires occurred over the years (Fig: 4.5) shows 1993 as the year with the least number of fires reported and just the next year, 1992, has had the highest fires reported with a count of 13954 fires in the span of 23 years.
+
+Conclusion and Future work
+
+Comprehending wildfire behavior can be daunting and complex. A lightning caused wildfire that might not have spread so rapidly decades ago, leaps across vast areas of dry vegetation due to the recent climate change. Having control over these extremities has become crucial and need of the hour for safety of the mankind. These visualizations reported can help us derive many insights which can be used to better prepare and mitigate these destructions. As a part of future work, we can train various machine learning algorithms to predict the occurrences of fires in the upcoming years.
