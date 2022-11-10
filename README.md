@@ -1,4 +1,4 @@
-# US-Wildfire-Lightning
+# US-Wildfire-due-to-Lightning
 To understand the trend of wildfire in the USA due to lightning and potentially suggest mitigation strategy.
 
 Data Source:
